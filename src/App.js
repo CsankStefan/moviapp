@@ -5,6 +5,7 @@ import "./App.css";
 import imageUrl from "./movies.png";
 import { motion } from 'framer-motion';
 
+
 const swimUpVariants = {
   initial: {
     y: '-100%', 
